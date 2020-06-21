@@ -1,0 +1,11 @@
+What is the purpose?
+    To code python ya headass
+    Also to create a password protected "Vault" system for files
+    I literally wont use it but it would be neat
+
+What should it do?
+    Input a username and password to access the file of choice
+    If the username and password is incorrect, then it denies access
+    If the information is correct, then the Vault opens
+    When vault is openend, it should be able to add, delete, and edit files but for editing we could just use g-edit or something idk
+    
